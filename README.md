@@ -18,3 +18,6 @@ Ratusha craft rooms is a lodging property in Kamianets-Podilskyi, Ukraine, locat
 
 ## Notes
 The page explicitly states that room counts, categories, capacity, bed types, bathrooms, room size, A/C, TV, fridge, and prices are not yet confirmed. Distances to nearby landmarks (Ратуша, Вірменський ринок, Старий замок, Каньйон) are also marked as unconfirmed. Photos on the page are labeled as illustrative rather than actual property photos.
+
+## Forms
+The `stay-request` form posts to HotelOS (hotel `kp-ratusha`); phone is the only required field. No service forms (the café is not a bookable service form type).
